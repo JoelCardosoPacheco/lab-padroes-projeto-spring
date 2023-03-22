@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LabPadroesProjetoSpringApplication<lab-padroes-projeto-spring>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.one.digitalonovation.gof.LabPadroesProjetoSpringApplication",
+            "projectName": "lab-padroes-projeto-spring",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
